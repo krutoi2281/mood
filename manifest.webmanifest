@@ -1,0 +1,9 @@
+{
+  "name": "MOOD Menu",
+  "short_name": "MOOD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8ff",
+  "theme_color": "#f6f8ff",
+  "icons": []
+}
